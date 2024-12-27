@@ -1,0 +1,2 @@
+global.c:29:6:updateLCD	16	static
+global.c:40:6:LedTraffic	16	static

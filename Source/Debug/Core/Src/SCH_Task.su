@@ -1,0 +1,7 @@
+SCH_Task.c:14:6:LedBlinky	8	static
+SCH_Task.c:17:6:LedBlinky1	8	static
+SCH_Task.c:20:6:timeCountDown	8	static
+SCH_Task.c:25:6:timeCountUpFast	8	static
+SCH_Task.c:30:6:timeCountDownFast	8	static
+SCH_Task.c:35:6:displayLCD	40	static
+SCH_Task.c:85:6:toggleLedColor	16	static

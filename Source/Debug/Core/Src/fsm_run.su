@@ -1,0 +1,2 @@
+core_cm3.h:1762:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+fsm_run.c:15:6:fsm_run	16	static
